@@ -9,15 +9,15 @@ class load:
     def loading(self):
         done = False
 
-        def animate():
-            for c in itertools.cycle(['|', '/', '-', '\\']):
+        def eza_reza():
+            for eza in itertools.cycle(['|', '/', '-', '\\']):
                 if done:
                     break
-                sys.stdout.write('\rMemperoses data ' + c)
+                sys.stdout.write('\rMemperoses data ' + eza)
                 sys.stdout.flush()
                 time.sleep(0.1)
 
-        t = threading.Thread(target=animate)
+        t = threading.Thread(target=eza_reza)
         t.start()
 
         time.sleep(3)
