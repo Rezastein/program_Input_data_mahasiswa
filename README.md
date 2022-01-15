@@ -12,6 +12,17 @@
 [<img align="left" alt="rezastein | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/rezastein_)
 <br />
 
+## **PRIVIEW PROGRAM**
+
+
+
+
+https://user-images.githubusercontent.com/92729919/149600350-cea6cea1-b29d-403b-aa76-14b8a62d60cd.mp4
+
+
+
+
+
 ## **DESKRIPSI**
 
 ### **main.py**
