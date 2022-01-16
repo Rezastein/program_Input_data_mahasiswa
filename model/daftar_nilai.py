@@ -65,6 +65,6 @@ class daftar:
             p.falses()
 
     def cari_data(self):
-        ('+---{  MASUKAN NAMA DARI DATA YANG AKAN DI CARI  }--+\n')
+        print('+---{  MASUKAN NAMA DARI DATA YANG AKAN DI CARI  }--+\n')
         input_data.nama_input(self)
         view.cari(self)
